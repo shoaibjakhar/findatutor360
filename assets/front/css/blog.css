@@ -1,0 +1,134 @@
+.box-border {
+    margin: -31px;
+    margin-bottom: 80px;
+    padding-bottom: 15px;
+}
+
+.tutor-name {
+    padding-left: 42px;
+}
+.dashboard-panel {
+   border: 0;
+}
+
+/*****android mobile devices-portrait*********/
+@media only screen and (max-width: 480px) {
+    .box-border {
+        margin: 0 !important; 
+        border: 1px solid #ddd;
+        margin-bottom: 30px !important;
+        padding: 8px !important;
+    }
+
+    .tutr-prfile {
+        margin-bottom: 10px;
+    }
+
+    .user-profile-content {
+        border-bottom: 0 !important;
+    }
+
+    .tutor-name {
+        padding-left: 90px;
+    }
+}
+
+
+/*****Android tablet - portrait*****/
+@media only screen and (min-width : 480px) and (max-width : 790px) {
+
+     .box-border {
+        margin: 0 !important; 
+        border: 1px solid #ddd;
+        margin-bottom: 30px !important;
+        padding: 8px !important;
+    }
+
+    .tutr-prfile {
+        margin-bottom: 10px;
+    }
+
+    .user-profile-content {
+        border-bottom: 0 !important;
+    }
+
+    .tutor-name {
+        padding-left: 195px;
+    }
+}
+
+/******TUTOR OTHER BLOGS IN BLOG DETAILS PAGE********/
+
+/***** laptops,desktops - portrait*****/
+@media only screen and (min-width : 1280px) {
+
+    .profile-block h4 {
+        width: 240px !important;
+    }
+
+    .owl-item {
+        width: 367px !important;
+        /*margin-right: -26px;*/
+    }
+
+    .owl-stage {
+        width: 735px !important;
+    }
+
+    .weekly-top-rated {
+    background: #ffffff !important; 
+    }
+}
+
+/*****android mobile devices-portrait*********/
+@media only screen and (max-width: 480px) {
+    .owl-item {
+        width: 280px !important;
+        /*margin-right: -26px;*/
+    }
+    .owl-stage {
+        width: 2205px !important;
+        /*transform: translate3d(0px, 0px, 0px) !important; */
+    }
+
+    .profile-block h4 {
+        width: 150px !important;
+    }
+
+    .weekly-top-rated {
+    background: #ffffff !important; 
+    }
+}
+
+/*****Android tablet - portrait*****/
+@media only screen and (min-width : 480px) and (max-width : 790px) {
+
+    .owl-item {
+        width: 360px !important;
+        /*margin-right: -26px;*/
+    }
+    .owl-stage {
+        width: 2160px !important;
+        /*transform: translate3d(0px, 0px, 0px) !important; */
+    }
+
+    .profile-block h4 {
+        width: 150px !important;
+    }
+
+    .weekly-top-rated {
+    background: #ffffff !important; 
+    }
+}
+
+
+.select2-container--default .select2-selection--multiple {
+    min-height: 0 !important;
+}
+
+@media only screen and (min-width : 1280px) {
+    .margin-btm {
+        padding-left: 150px;
+        margin-top: -37px;
+    }
+}
