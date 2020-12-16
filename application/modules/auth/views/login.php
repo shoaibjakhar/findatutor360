@@ -89,7 +89,7 @@
 						<div class="input-group ">
 							<ul class="login-user-details list-unstyled">
 	                          	<li onclick="setCredentials('institute_tutor')" class=""><a class="positive" href="javascript:void(0);">Institute Tutor</a></li>
-	                          	<li><a class="positive" href="<?php echo SITEURL;?>Documentation/" target="_blank">Documentation</a></li>
+	                          	<!-- <li><a class="positive" href="<?php echo SITEURL;?>Documentation/" target="_blank">Documentation</a></li> -->
 	                        </ul>
 						</div>
 
