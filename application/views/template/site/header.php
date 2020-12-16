@@ -100,11 +100,11 @@
                          data-primary>
 
                         <!-- Navbar toggler -->
-                        <button class="navbar-toggler w-auto mr-16pt d-block rounded-0"
+                        <!-- <button class="navbar-toggler w-auto mr-16pt d-block rounded-0"
                                 type="button"
                                 data-toggle="sidebar">
                             <span class="material-icons">short_text</span>
-                        </button>
+                        </button> -->
 
                         <!-- Navbar Brand -->
                         <a href="<?php echo base_url();?>"
@@ -206,11 +206,10 @@
                         <h1 class="text-white text-shadow">Learn to Code</h1>
                         <p class="lead measure-hero-lead mx-auto mx-md-0 text-white text-shadow mb-48pt">Business, Technology and Creative Skills taught by industry experts. Explore a wide range of skills with our professional tutorials.</p>
 
-                        <a href="<?php echo URL_HOME_BUY_COURSES;?>"
+                        <a href="<?php echo URL_HOME_ALL_COURSES; ?>"
                            class="btn btn-lg btn-white btn--raised mb-16pt">Browse Courses</a>
 
-                        <p class="mb-0"><a href=""
-                               class="text-white text-shadow"><strong>Are you a teacher?</strong></a></p>
+                        <!-- <p class="mb-0"><a href="" class="text-white text-shadow"><strong>Are you a teacher?</strong></a></p> -->
 
                     </div>
                   <?php } ?>

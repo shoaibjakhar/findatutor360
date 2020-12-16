@@ -1,7 +1,7 @@
 <!-- Header Layout Content -->
 <div class="mdk-header-layout__content page-content ">
 
-    <div class="border-bottom-2 py-16pt navbar-light bg-white border-bottom-2">
+    <!-- <div class="border-bottom-2 py-16pt navbar-light bg-white border-bottom-2">
         <div class="container page__container">
             <div class="row align-items-center">
                 <div class="d-flex col-md align-items-center border-bottom border-md-0 mb-16pt mb-md-0 pb-16pt pb-md-0">
@@ -33,193 +33,10 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
     <div class="page-section border-bottom-2">
-        <div class="container page__container">
-
-            <div class="page-separator">
-                <div class="page-separator__text">From the blog</div>
-            </div>
-
-            <div class="row card-group-row">
-
-                <div class="col-md-6 col-lg-4 card-group-row__col">
-
-                    <div class="card card--elevated posts-card-popular overlay card-group-row__card">
-                        <img src="../../public/images/paths/sketch_430x168.png"
-                             alt=""
-                             class="card-img">
-                        <div class="fullbleed bg-primary"
-                             style="opacity: .5"></div>
-                        <div class="posts-card-popular__content">
-                            <div class="card-body d-flex align-items-center">
-                                <div class="avatar-group flex">
-                                    <div class="avatar avatar-xs"
-                                         data-toggle="tooltip"
-                                         data-placement="top"
-                                         title="Janell D.">
-                                        <a href=""><img src="../../public/images/256_luke-porter-261779-unsplash.jpg"
-                                                 alt="Avatar"
-                                                 class="avatar-img rounded-circle"></a>
-                                    </div>
-                                </div>
-                                <a style="text-decoration: none;"
-                                   class="d-flex align-items-center"
-                                   href=""><i class="material-icons mr-1"
-                                       style="font-size: inherit;">remove_red_eye</i> <small>327</small></a>
-                            </div>
-                            <div class="posts-card-popular__title card-body">
-                                <small class="text-muted text-uppercase">sketch</small>
-                                <a class="card-title"
-                                   href="blog-post.html">Merge Duplicates Inconsistent Symbols</a>
-                            </div>
-                        </div>
-                    </div>
-
-                </div>
-
-                <div class="col-md-6 col-lg-4 card-group-row__col">
-
-                    <div class="card card--elevated posts-card-popular overlay card-group-row__card">
-                        <img src="../../public/images/paths/invision_430x168.png"
-                             alt=""
-                             class="card-img">
-                        <div class="fullbleed bg-primary"
-                             style="opacity: .5"></div>
-                        <div class="posts-card-popular__content">
-                            <div class="card-body d-flex align-items-center">
-                                <div class="avatar-group flex">
-                                    <div class="avatar avatar-xs"
-                                         data-toggle="tooltip"
-                                         data-placement="top"
-                                         title="Janell D.">
-                                        <a href=""><img src="../../public/images/256_michael-dam-258165-unsplash.jpg"
-                                                 alt="Avatar"
-                                                 class="avatar-img rounded-circle"></a>
-                                    </div>
-                                </div>
-                                <a style="text-decoration: none;"
-                                   class="d-flex align-items-center"
-                                   href=""><i class="material-icons mr-1"
-                                       style="font-size: inherit;">remove_red_eye</i> <small>327</small></a>
-                            </div>
-                            <div class="posts-card-popular__title card-body">
-                                <small class="text-muted text-uppercase">invision</small>
-                                <a class="card-title"
-                                   href="blog-post.html">Design Systems Essentials</a>
-                            </div>
-                        </div>
-                    </div>
-
-                </div>
-
-                <div class="col-md-6 col-lg-4 card-group-row__col">
-
-                    <div class="card card--elevated posts-card-popular overlay card-group-row__card">
-                        <img src="../../public/images/paths/photoshop_430x168.png"
-                             alt=""
-                             class="card-img">
-                        <div class="fullbleed bg-primary"
-                             style="opacity: .5"></div>
-                        <div class="posts-card-popular__content">
-                            <div class="card-body d-flex align-items-center">
-                                <div class="avatar-group flex">
-                                    <div class="avatar avatar-xs"
-                                         data-toggle="tooltip"
-                                         data-placement="top"
-                                         title="Janell D.">
-                                        <a href=""><img src="../../public/images/256_rsz_1andy-lee-642320-unsplash.jpg"
-                                                 alt="Avatar"
-                                                 class="avatar-img rounded-circle"></a>
-                                    </div>
-                                </div>
-                                <a style="text-decoration: none;"
-                                   class="d-flex align-items-center"
-                                   href=""><i class="material-icons mr-1"
-                                       style="font-size: inherit;">remove_red_eye</i> <small>327</small></a>
-                            </div>
-                            <div class="posts-card-popular__title card-body">
-                                <small class="text-muted text-uppercase">photoshop</small>
-                                <a class="card-title"
-                                   href="blog-post.html">Semantic Logo Design</a>
-                            </div>
-                        </div>
-                    </div>
-
-                </div>
-
-            </div>
-
-            <div class="posts-cards">
-
-                <div class="card posts-card mb-0">
-                    <div class="posts-card__content d-flex align-items-center flex-wrap">
-                        <div class="avatar avatar-lg mr-3">
-                            <a href="blog-post.html"><img src="../../public/images/paths/invision_200x168.png"
-                                     alt="avatar"
-                                     class="avatar-img rounded"></a>
-                        </div>
-                        <div class="posts-card__title flex d-flex flex-column">
-                            <a href="blog-post.html"
-                               class="card-title mr-3">Design Systems Essentials</a>
-                            <small class="text-50">35 views last week</small>
-                        </div>
-                        <div class="d-flex align-items-center flex-column flex-sm-row posts-card__meta">
-                            <div class="mr-3 text-50 text-uppercase posts-card__tag d-flex align-items-center">
-                                <i class="material-icons text-muted-light mr-1">folder_open</i> inVision
-                            </div>
-                            <div class="mr-3 text-50 posts-card__date">
-                                <small>11 Nov, 2018 07:46 AM</small>
-                            </div>
-                            <div class="media ml-sm-auto align-items-center">
-                                <div class="media-left mr-2 avatar-group">
-
-                                    <div class="avatar avatar-xs"
-                                         data-toggle="tooltip"
-                                         data-placement="top"
-                                         title="Janell D.">
-                                        <img src="../../public/images/256_rsz_1andy-lee-642320-unsplash.jpg"
-                                             alt="Avatar"
-                                             class="avatar-img rounded-circle">
-                                    </div>
-
-                                    <div class="avatar avatar-xs"
-                                         data-toggle="tooltip"
-                                         data-placement="top"
-                                         title="Janell D.">
-                                        <img src="../../public/images/256_michael-dam-258165-unsplash.jpg"
-                                             alt="Avatar"
-                                             class="avatar-img rounded-circle">
-                                    </div>
-
-                                    <div class="avatar avatar-xs"
-                                         data-toggle="tooltip"
-                                         data-placement="top"
-                                         title="Janell D.">
-                                        <img src="../../public/images/256_luke-porter-261779-unsplash.jpg"
-                                             alt="Avatar"
-                                             class="avatar-img rounded-circle">
-                                    </div>
-
-                                </div>
-                                <div class="media-body">
-
-                                    <a href="">+2 more</a>
-
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-
-        </div>
-    </div>
-
-    <div class="page-section border-bottom-2">
-        <div class="container page__container">
+        <!-- <div class="container page__container">
             <div class="page-separator">
                 <div class="page-separator__text">Learning Paths</div>
             </div>
@@ -802,16 +619,27 @@
 
             </div>
 
-        </div>
+        </div> -->
     </div>
-
+    <?php if(!empty($popular_courses)) { ?>
     <div class="page-section border-bottom-2">
         <div class="container page__container">
             <div class="page-separator">
-                <div class="page-separator__text">Design Courses</div>
+                <div class="page-separator__text"><?php echo get_languageword('our_popular_courses'); ?></div>
             </div>
 
             <div class="row card-group-row">
+
+                <?php foreach ($popular_courses as $key => $courses) { 
+
+                    $category = explode('_', $key);
+
+                    //Category Details
+                    $category_id   = $category[0];
+                    $category_slug = $category[1];
+                    $category_name = $category[2];
+
+                ?>
 
                 <div class="col-md-6 col-lg-4 col-xl-3 card-group-row__col">
 
@@ -823,7 +651,7 @@
                            class="card-img-top js-image"
                            data-position=""
                            data-height="140">
-                            <img src="../../public/images/paths/sketch_430x168.png"
+                            <img src="<?php echo base_url(); ?>assets/public/images/paths/sketch_430x168.png"
                                  alt="course">
                             <span class="overlay__content">
                                 <span class="overlay__action d-flex flex-column text-center">
@@ -837,17 +665,17 @@
                             <div class="d-flex">
                                 <div class="flex">
                                     <a class="card-title"
-                                       href="student-course.html">Learn Sketch</a>
-                                    <small class="text-50 font-weight-bold mb-4pt">Elijah Murray</small>
+                                       href="<?php echo URL_HOME_ALL_COURSES.'/'.$category_slug;?>"><?php echo $category_name; ?></a>
+                                    <!-- <small class="text-50 font-weight-bold mb-4pt">Elijah Murray</small> -->
                                 </div>
-                                <a href="student-course.html"
+                                <!-- <a href="student-course.html"
                                    data-toggle="tooltip"
                                    data-title="Add Favorite"
                                    data-placement="top"
                                    data-boundary="window"
-                                   class="ml-4pt material-icons text-20 card-course__icon-favorite">favorite_border</a>
+                                   class="ml-4pt material-icons text-20 card-course__icon-favorite">favorite_border</a> -->
                             </div>
-                            <div class="d-flex">
+                            <!-- <div class="d-flex">
                                 <div class="rating flex">
                                     <span class="rating__item"><span class="material-icons">star</span></span>
                                     <span class="rating__item"><span class="material-icons">star</span></span>
@@ -855,10 +683,10 @@
                                     <span class="rating__item"><span class="material-icons">star</span></span>
                                     <span class="rating__item"><span class="material-icons">star_border</span></span>
                                 </div>
-                                <!-- <small class="text-50">6 hours</small> -->
-                            </div>
+                                <small class="text-50">6 hours</small>
+                            </div> -->
                         </div>
-                        <div class="card-footer">
+                        <!-- <div class="card-footer">
                             <div class="row justify-content-between">
                                 <div class="col-auto d-flex align-items-center">
                                     <span class="material-icons icon-16pt text-50 mr-4pt">access_time</span>
@@ -869,9 +697,9 @@
                                     <p class="flex text-50 lh-1 mb-0"><small>12 lessons</small></p>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
                     </div>
-                    <div class="popoverContainer d-none">
+                    <!-- <div class="popoverContainer d-none">
                         <div class="media">
                             <div class="media-left mr-12pt">
                                 <img src="../../public/images/paths/sketch_40x40@2x.png"
@@ -935,397 +763,170 @@
                             </div>
                         </div>
 
-                    </div>
+                    </div> -->
 
                 </div>
 
-                <div class="col-md-6 col-lg-4 col-xl-3 card-group-row__col">
-
-                    <div class="card card-sm card--elevated p-relative o-hidden overlay overlay--primary-dodger-blue js-overlay card-group-row__card"
-                         data-toggle="popover"
-                         data-trigger="click">
-
-                        <a href="student-course.html"
-                           class="card-img-top js-image"
-                           data-position=""
-                           data-height="140">
-                            <img src="../../public/images/paths/flinto_430x168.png"
-                                 alt="course">
-                            <span class="overlay__content">
-                                <span class="overlay__action d-flex flex-column text-center">
-                                    <i class="material-icons icon-32pt">play_circle_outline</i>
-                                    <span class="card-title text-white">Preview</span>
-                                </span>
-                            </span>
-                        </a>
-
-                        <div class="card-body flex">
-                            <div class="d-flex">
-                                <div class="flex">
-                                    <a class="card-title"
-                                       href="student-course.html">Learn Flinto</a>
-                                    <small class="text-50 font-weight-bold mb-4pt">Elijah Murray</small>
-                                </div>
-                                <a href="student-course.html"
-                                   data-toggle="tooltip"
-                                   data-title="Add Favorite"
-                                   data-placement="top"
-                                   data-boundary="window"
-                                   class="ml-4pt material-icons text-20 card-course__icon-favorite">favorite_border</a>
-                            </div>
-                            <div class="d-flex">
-                                <div class="rating flex">
-                                    <span class="rating__item"><span class="material-icons">star</span></span>
-                                    <span class="rating__item"><span class="material-icons">star</span></span>
-                                    <span class="rating__item"><span class="material-icons">star</span></span>
-                                    <span class="rating__item"><span class="material-icons">star</span></span>
-                                    <span class="rating__item"><span class="material-icons">star_border</span></span>
-                                </div>
-                                <!-- <small class="text-50">6 hours</small> -->
-                            </div>
-                        </div>
-                        <div class="card-footer">
-                            <div class="row justify-content-between">
-                                <div class="col-auto d-flex align-items-center">
-                                    <span class="material-icons icon-16pt text-50 mr-4pt">access_time</span>
-                                    <p class="flex text-50 lh-1 mb-0"><small>6 hours</small></p>
-                                </div>
-                                <div class="col-auto d-flex align-items-center">
-                                    <span class="material-icons icon-16pt text-50 mr-4pt">play_circle_outline</span>
-                                    <p class="flex text-50 lh-1 mb-0"><small>12 lessons</small></p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="popoverContainer d-none">
-                        <div class="media">
-                            <div class="media-left mr-12pt">
-                                <img src="../../public/images/paths/flinto_40x40@2x.png"
-                                     width="40"
-                                     height="40"
-                                     alt="Angular"
-                                     class="rounded">
-                            </div>
-                            <div class="media-body">
-                                <div class="card-title mb-0">Learn Flinto</div>
-                                <p class="lh-1 mb-0">
-                                    <span class="text-50 small">with</span>
-                                    <span class="text-50 small font-weight-bold">Elijah Murray</span>
-                                </p>
-                            </div>
-                        </div>
-
-                        <p class="my-16pt text-70">Learn the fundamentals of working with Angular and how to create basic applications.</p>
-
-                        <div class="mb-16pt">
-                            <div class="d-flex align-items-center">
-                                <span class="material-icons icon-16pt text-50 mr-8pt">check</span>
-                                <p class="flex text-50 lh-1 mb-0"><small>Fundamentals of working with Angular</small></p>
-                            </div>
-                            <div class="d-flex align-items-center">
-                                <span class="material-icons icon-16pt text-50 mr-8pt">check</span>
-                                <p class="flex text-50 lh-1 mb-0"><small>Create complete Angular applications</small></p>
-                            </div>
-                            <div class="d-flex align-items-center">
-                                <span class="material-icons icon-16pt text-50 mr-8pt">check</span>
-                                <p class="flex text-50 lh-1 mb-0"><small>Working with the Angular CLI</small></p>
-                            </div>
-                            <div class="d-flex align-items-center">
-                                <span class="material-icons icon-16pt text-50 mr-8pt">check</span>
-                                <p class="flex text-50 lh-1 mb-0"><small>Understanding Dependency Injection</small></p>
-                            </div>
-                            <div class="d-flex align-items-center">
-                                <span class="material-icons icon-16pt text-50 mr-8pt">check</span>
-                                <p class="flex text-50 lh-1 mb-0"><small>Testing with Angular</small></p>
-                            </div>
-                        </div>
-
-                        <div class="row align-items-center">
-                            <div class="col-auto">
-                                <div class="d-flex align-items-center mb-4pt">
-                                    <span class="material-icons icon-16pt text-50 mr-4pt">access_time</span>
-                                    <p class="flex text-50 lh-1 mb-0"><small>6 hours</small></p>
-                                </div>
-                                <div class="d-flex align-items-center mb-4pt">
-                                    <span class="material-icons icon-16pt text-50 mr-4pt">play_circle_outline</span>
-                                    <p class="flex text-50 lh-1 mb-0"><small>12 lessons</small></p>
-                                </div>
-                                <div class="d-flex align-items-center">
-                                    <span class="material-icons icon-16pt text-50 mr-4pt">assessment</span>
-                                    <p class="flex text-50 lh-1 mb-0"><small>Beginner</small></p>
-                                </div>
-                            </div>
-                            <div class="col text-right">
-                                <a href="student-course.html"
-                                   class="btn btn-primary">Watch trailer</a>
-                            </div>
-                        </div>
-
-                    </div>
-
-                </div>
-
-                <div class="col-md-6 col-lg-4 col-xl-3 card-group-row__col">
-
-                    <div class="card card-sm card--elevated p-relative o-hidden overlay overlay--primary-dodger-blue js-overlay card-group-row__card"
-                         data-toggle="popover"
-                         data-trigger="click">
-
-                        <a href="student-course.html"
-                           class="card-img-top js-image"
-                           data-position=""
-                           data-height="140">
-                            <img src="../../public/images/paths/photoshop_430x168.png"
-                                 alt="course">
-                            <span class="overlay__content">
-                                <span class="overlay__action d-flex flex-column text-center">
-                                    <i class="material-icons icon-32pt">play_circle_outline</i>
-                                    <span class="card-title text-white">Preview</span>
-                                </span>
-                            </span>
-                        </a>
-
-                        <div class="card-body flex">
-                            <div class="d-flex">
-                                <div class="flex">
-                                    <a class="card-title"
-                                       href="student-course.html">Learn Photoshop</a>
-                                    <small class="text-50 font-weight-bold mb-4pt">Elijah Murray</small>
-                                </div>
-                                <a href="student-course.html"
-                                   data-toggle="tooltip"
-                                   data-title="Add Favorite"
-                                   data-placement="top"
-                                   data-boundary="window"
-                                   class="ml-4pt material-icons text-20 card-course__icon-favorite">favorite_border</a>
-                            </div>
-                            <div class="d-flex">
-                                <div class="rating flex">
-                                    <span class="rating__item"><span class="material-icons">star</span></span>
-                                    <span class="rating__item"><span class="material-icons">star</span></span>
-                                    <span class="rating__item"><span class="material-icons">star</span></span>
-                                    <span class="rating__item"><span class="material-icons">star</span></span>
-                                    <span class="rating__item"><span class="material-icons">star_border</span></span>
-                                </div>
-                                <!-- <small class="text-50">6 hours</small> -->
-                            </div>
-                        </div>
-                        <div class="card-footer">
-                            <div class="row justify-content-between">
-                                <div class="col-auto d-flex align-items-center">
-                                    <span class="material-icons icon-16pt text-50 mr-4pt">access_time</span>
-                                    <p class="flex text-50 lh-1 mb-0"><small>6 hours</small></p>
-                                </div>
-                                <div class="col-auto d-flex align-items-center">
-                                    <span class="material-icons icon-16pt text-50 mr-4pt">play_circle_outline</span>
-                                    <p class="flex text-50 lh-1 mb-0"><small>12 lessons</small></p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="popoverContainer d-none">
-                        <div class="media">
-                            <div class="media-left mr-12pt">
-                                <img src="../../public/images/paths/photoshop_40x40@2x.png"
-                                     width="40"
-                                     height="40"
-                                     alt="Angular"
-                                     class="rounded">
-                            </div>
-                            <div class="media-body">
-                                <div class="card-title mb-0">Learn Photoshop</div>
-                                <p class="lh-1 mb-0">
-                                    <span class="text-50 small">with</span>
-                                    <span class="text-50 small font-weight-bold">Elijah Murray</span>
-                                </p>
-                            </div>
-                        </div>
-
-                        <p class="my-16pt text-70">Learn the fundamentals of working with Angular and how to create basic applications.</p>
-
-                        <div class="mb-16pt">
-                            <div class="d-flex align-items-center">
-                                <span class="material-icons icon-16pt text-50 mr-8pt">check</span>
-                                <p class="flex text-50 lh-1 mb-0"><small>Fundamentals of working with Angular</small></p>
-                            </div>
-                            <div class="d-flex align-items-center">
-                                <span class="material-icons icon-16pt text-50 mr-8pt">check</span>
-                                <p class="flex text-50 lh-1 mb-0"><small>Create complete Angular applications</small></p>
-                            </div>
-                            <div class="d-flex align-items-center">
-                                <span class="material-icons icon-16pt text-50 mr-8pt">check</span>
-                                <p class="flex text-50 lh-1 mb-0"><small>Working with the Angular CLI</small></p>
-                            </div>
-                            <div class="d-flex align-items-center">
-                                <span class="material-icons icon-16pt text-50 mr-8pt">check</span>
-                                <p class="flex text-50 lh-1 mb-0"><small>Understanding Dependency Injection</small></p>
-                            </div>
-                            <div class="d-flex align-items-center">
-                                <span class="material-icons icon-16pt text-50 mr-8pt">check</span>
-                                <p class="flex text-50 lh-1 mb-0"><small>Testing with Angular</small></p>
-                            </div>
-                        </div>
-
-                        <div class="row align-items-center">
-                            <div class="col-auto">
-                                <div class="d-flex align-items-center mb-4pt">
-                                    <span class="material-icons icon-16pt text-50 mr-4pt">access_time</span>
-                                    <p class="flex text-50 lh-1 mb-0"><small>6 hours</small></p>
-                                </div>
-                                <div class="d-flex align-items-center mb-4pt">
-                                    <span class="material-icons icon-16pt text-50 mr-4pt">play_circle_outline</span>
-                                    <p class="flex text-50 lh-1 mb-0"><small>12 lessons</small></p>
-                                </div>
-                                <div class="d-flex align-items-center">
-                                    <span class="material-icons icon-16pt text-50 mr-4pt">assessment</span>
-                                    <p class="flex text-50 lh-1 mb-0"><small>Beginner</small></p>
-                                </div>
-                            </div>
-                            <div class="col text-right">
-                                <a href="student-course.html"
-                                   class="btn btn-primary">Watch trailer</a>
-                            </div>
-                        </div>
-
-                    </div>
-
-                </div>
-
-                <div class="col-md-6 col-lg-4 col-xl-3 card-group-row__col">
-
-                    <div class="card card-sm card--elevated p-relative o-hidden overlay overlay--primary-dodger-blue js-overlay card-group-row__card"
-                         data-toggle="popover"
-                         data-trigger="click">
-
-                        <a href="student-course.html"
-                           class="card-img-top js-image"
-                           data-position=""
-                           data-height="140">
-                            <img src="../../public/images/paths/figma_430x168.png"
-                                 alt="course">
-                            <span class="overlay__content">
-                                <span class="overlay__action d-flex flex-column text-center">
-                                    <i class="material-icons icon-32pt">play_circle_outline</i>
-                                    <span class="card-title text-white">Preview</span>
-                                </span>
-                            </span>
-                        </a>
-
-                        <div class="card-body flex">
-                            <div class="d-flex">
-                                <div class="flex">
-                                    <a class="card-title"
-                                       href="student-course.html">Learn Figma</a>
-                                    <small class="text-50 font-weight-bold mb-4pt">Elijah Murray</small>
-                                </div>
-                                <a href="student-course.html"
-                                   data-toggle="tooltip"
-                                   data-title="Add Favorite"
-                                   data-placement="top"
-                                   data-boundary="window"
-                                   class="ml-4pt material-icons text-20 card-course__icon-favorite">favorite_border</a>
-                            </div>
-                            <div class="d-flex">
-                                <div class="rating flex">
-                                    <span class="rating__item"><span class="material-icons">star</span></span>
-                                    <span class="rating__item"><span class="material-icons">star</span></span>
-                                    <span class="rating__item"><span class="material-icons">star</span></span>
-                                    <span class="rating__item"><span class="material-icons">star</span></span>
-                                    <span class="rating__item"><span class="material-icons">star_border</span></span>
-                                </div>
-                                <!-- <small class="text-50">6 hours</small> -->
-                            </div>
-                        </div>
-                        <div class="card-footer">
-                            <div class="row justify-content-between">
-                                <div class="col-auto d-flex align-items-center">
-                                    <span class="material-icons icon-16pt text-50 mr-4pt">access_time</span>
-                                    <p class="flex text-50 lh-1 mb-0"><small>6 hours</small></p>
-                                </div>
-                                <div class="col-auto d-flex align-items-center">
-                                    <span class="material-icons icon-16pt text-50 mr-4pt">play_circle_outline</span>
-                                    <p class="flex text-50 lh-1 mb-0"><small>12 lessons</small></p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="popoverContainer d-none">
-                        <div class="media">
-                            <div class="media-left mr-12pt">
-                                <img src="../../public/images/paths/figma_40x40@2x.png"
-                                     width="40"
-                                     height="40"
-                                     alt="Angular"
-                                     class="rounded">
-                            </div>
-                            <div class="media-body">
-                                <div class="card-title mb-0">Learn Figma</div>
-                                <p class="lh-1 mb-0">
-                                    <span class="text-50 small">with</span>
-                                    <span class="text-50 small font-weight-bold">Elijah Murray</span>
-                                </p>
-                            </div>
-                        </div>
-
-                        <p class="my-16pt text-70">Learn the fundamentals of working with Angular and how to create basic applications.</p>
-
-                        <div class="mb-16pt">
-                            <div class="d-flex align-items-center">
-                                <span class="material-icons icon-16pt text-50 mr-8pt">check</span>
-                                <p class="flex text-50 lh-1 mb-0"><small>Fundamentals of working with Angular</small></p>
-                            </div>
-                            <div class="d-flex align-items-center">
-                                <span class="material-icons icon-16pt text-50 mr-8pt">check</span>
-                                <p class="flex text-50 lh-1 mb-0"><small>Create complete Angular applications</small></p>
-                            </div>
-                            <div class="d-flex align-items-center">
-                                <span class="material-icons icon-16pt text-50 mr-8pt">check</span>
-                                <p class="flex text-50 lh-1 mb-0"><small>Working with the Angular CLI</small></p>
-                            </div>
-                            <div class="d-flex align-items-center">
-                                <span class="material-icons icon-16pt text-50 mr-8pt">check</span>
-                                <p class="flex text-50 lh-1 mb-0"><small>Understanding Dependency Injection</small></p>
-                            </div>
-                            <div class="d-flex align-items-center">
-                                <span class="material-icons icon-16pt text-50 mr-8pt">check</span>
-                                <p class="flex text-50 lh-1 mb-0"><small>Testing with Angular</small></p>
-                            </div>
-                        </div>
-
-                        <div class="row align-items-center">
-                            <div class="col-auto">
-                                <div class="d-flex align-items-center mb-4pt">
-                                    <span class="material-icons icon-16pt text-50 mr-4pt">access_time</span>
-                                    <p class="flex text-50 lh-1 mb-0"><small>6 hours</small></p>
-                                </div>
-                                <div class="d-flex align-items-center mb-4pt">
-                                    <span class="material-icons icon-16pt text-50 mr-4pt">play_circle_outline</span>
-                                    <p class="flex text-50 lh-1 mb-0"><small>12 lessons</small></p>
-                                </div>
-                                <div class="d-flex align-items-center">
-                                    <span class="material-icons icon-16pt text-50 mr-4pt">assessment</span>
-                                    <p class="flex text-50 lh-1 mb-0"><small>Beginner</small></p>
-                                </div>
-                            </div>
-                            <div class="col text-right">
-                                <a href="student-course.html"
-                                   class="btn btn-primary">Watch trailer</a>
-                            </div>
-                        </div>
-
-                    </div>
-
-                </div>
+            <?php } ?>
 
             </div>
         </div>
     </div>
+<?php } ?>
+
+
+        <?php if(!empty($recent_courses)) { ?>
+    <div class="page-section border-bottom-2">
+        <div class="container page__container">
+            <div class="page-separator">
+                <div class="page-separator__text"><?php echo get_languageword('Recent Added');?> <?php echo get_languageword('Courses');?></div>
+            </div>
+
+            <div class="row card-group-row">
+
+                <?php foreach ($recent_courses as $key => $row) { 
+
+                ?>
+
+                <div class="col-md-6 col-lg-4 col-xl-3 card-group-row__col">
+
+                    <div class="card card-sm card--elevated p-relative o-hidden overlay overlay--primary-dodger-blue js-overlay card-group-row__card"
+                         data-toggle="popover"
+                         data-trigger="click">
+
+                        <a href="<?php echo URL_HOME_SEARCH_TUTOR.'/'.$row->slug;?>"
+                           class="card-img-top js-image"
+                           data-position=""
+                           data-height="140">
+                            <img src="<?php echo get_course_img($row->image); ?>"
+                                 alt="course">
+                            <span class="overlay__content">
+                                <span class="overlay__action d-flex flex-column text-center">
+                                    <i class="material-icons icon-32pt">play_circle_outline</i>
+                                    <span class="card-title text-white">Preview</span>
+                                </span>
+                            </span>
+                        </a>
+
+                        <div class="card-body flex">
+                            <div class="d-flex">
+                                <div class="flex">
+                                    <a class="card-title"
+                                       href="<?php echo URL_HOME_SEARCH_TUTOR.'/'.$row->slug;?>"><?php echo $row->name;?></a>
+                                    <!-- <small class="text-50 font-weight-bold mb-4pt">Elijah Murray</small> -->
+                                </div>
+                                <!-- <a href="student-course.html"
+                                   data-toggle="tooltip"
+                                   data-title="Add Favorite"
+                                   data-placement="top"
+                                   data-boundary="window"
+                                   class="ml-4pt material-icons text-20 card-course__icon-favorite">favorite_border</a> -->
+                            </div>
+                            <!-- <div class="d-flex">
+                                <div class="rating flex">
+                                    <span class="rating__item"><span class="material-icons">star</span></span>
+                                    <span class="rating__item"><span class="material-icons">star</span></span>
+                                    <span class="rating__item"><span class="material-icons">star</span></span>
+                                    <span class="rating__item"><span class="material-icons">star</span></span>
+                                    <span class="rating__item"><span class="material-icons">star_border</span></span>
+                                </div>
+                                <small class="text-50">6 hours</small>
+                            </div> -->
+                        </div>
+                        <!-- <div class="card-footer">
+                            <div class="row justify-content-between">
+                                <div class="col-auto d-flex align-items-center">
+                                    <span class="material-icons icon-16pt text-50 mr-4pt">access_time</span>
+                                    <p class="flex text-50 lh-1 mb-0"><small>6 hours</small></p>
+                                </div>
+                                <div class="col-auto d-flex align-items-center">
+                                    <span class="material-icons icon-16pt text-50 mr-4pt">play_circle_outline</span>
+                                    <p class="flex text-50 lh-1 mb-0"><small>12 lessons</small></p>
+                                </div>
+                            </div>
+                        </div> -->
+                    </div>
+                    <!-- <div class="popoverContainer d-none">
+                        <div class="media">
+                            <div class="media-left mr-12pt">
+                                <img src="../../public/images/paths/sketch_40x40@2x.png"
+                                     width="40"
+                                     height="40"
+                                     alt="Angular"
+                                     class="rounded">
+                            </div>
+                            <div class="media-body">
+                                <div class="card-title mb-0">Learn Sketch</div>
+                                <p class="lh-1 mb-0">
+                                    <span class="text-50 small">with</span>
+                                    <span class="text-50 small font-weight-bold">Elijah Murray</span>
+                                </p>
+                            </div>
+                        </div>
+
+                        <p class="my-16pt text-70">Learn the fundamentals of working with Angular and how to create basic applications.</p>
+
+                        <div class="mb-16pt">
+                            <div class="d-flex align-items-center">
+                                <span class="material-icons icon-16pt text-50 mr-8pt">check</span>
+                                <p class="flex text-50 lh-1 mb-0"><small>Fundamentals of working with Angular</small></p>
+                            </div>
+                            <div class="d-flex align-items-center">
+                                <span class="material-icons icon-16pt text-50 mr-8pt">check</span>
+                                <p class="flex text-50 lh-1 mb-0"><small>Create complete Angular applications</small></p>
+                            </div>
+                            <div class="d-flex align-items-center">
+                                <span class="material-icons icon-16pt text-50 mr-8pt">check</span>
+                                <p class="flex text-50 lh-1 mb-0"><small>Working with the Angular CLI</small></p>
+                            </div>
+                            <div class="d-flex align-items-center">
+                                <span class="material-icons icon-16pt text-50 mr-8pt">check</span>
+                                <p class="flex text-50 lh-1 mb-0"><small>Understanding Dependency Injection</small></p>
+                            </div>
+                            <div class="d-flex align-items-center">
+                                <span class="material-icons icon-16pt text-50 mr-8pt">check</span>
+                                <p class="flex text-50 lh-1 mb-0"><small>Testing with Angular</small></p>
+                            </div>
+                        </div>
+
+                        <div class="row align-items-center">
+                            <div class="col-auto">
+                                <div class="d-flex align-items-center mb-4pt">
+                                    <span class="material-icons icon-16pt text-50 mr-4pt">access_time</span>
+                                    <p class="flex text-50 lh-1 mb-0"><small>6 hours</small></p>
+                                </div>
+                                <div class="d-flex align-items-center mb-4pt">
+                                    <span class="material-icons icon-16pt text-50 mr-4pt">play_circle_outline</span>
+                                    <p class="flex text-50 lh-1 mb-0"><small>12 lessons</small></p>
+                                </div>
+                                <div class="d-flex align-items-center">
+                                    <span class="material-icons icon-16pt text-50 mr-4pt">assessment</span>
+                                    <p class="flex text-50 lh-1 mb-0"><small>Beginner</small></p>
+                                </div>
+                            </div>
+                            <div class="col text-right">
+                                <a href="student-course.html"
+                                   class="btn btn-primary">Watch trailer</a>
+                            </div>
+                        </div>
+
+                    </div> -->
+
+                </div>
+
+            <?php } ?>
+
+            </div>
+        </div>
+    </div>
+<?php } ?>
+
 
     <div class="page-section">
         <div class="container page__container">
             <div class="page-headline text-center">
-                <h2>Feedback</h2>
-                <p class="lead measure-lead mx-auto text-70">What other students turned professionals have to say about us after learning with us and reaching their goals.</p>
+                <h2><?php echo get_languageword('Why Students');?> <?php echo get_languageword('Love Us');?></h2>
+               <!--  <p class="lead measure-lead mx-auto text-70">What other students turned professionals have to say about us after learning with us and reaching their goals.</p> -->
             </div>
 
             <div class="position-relative carousel-card p-0 mx-auto">
@@ -1341,11 +942,14 @@
                     </a>
                     <div class="mdk-carousel__content">
 
+                    <?php foreach($site_testimonials as $row) {?>
+
+
                         <div class="col-12 col-md-6">
 
                             <div class="card card-feedback card-body">
                                 <blockquote class="blockquote mb-0">
-                                    <p class="text-70 small mb-0">A wonderful course on how to start. Eddie beautifully conveys all essentials of a becoming a good Angular developer. Very glad to have taken this course. Thank you Eddie Bryan.</p>
+                                    <p class="text-70 small mb-0"><?php echo $row->comments;?></p>
                                 </blockquote>
                             </div>
                             <div class="media ml-12pt">
@@ -1356,86 +960,144 @@
                                         <span class="avatar-title rounded-circle">UK</span>
                                     </a>
                                 </div>
-                                <div class="media-body media-middle">
-                                    <a href="student-profile.html"
-                                       class="card-title">Umberto Kass</a>
-                                    <div class="rating mt-4pt">
+                                <div class="media-body media-middle" style="margin-top: 9px;">
+                                    <span><?php echo $row->name;?> (<?php echo $row->position;?>)</span>
+                                    <!-- <div class="rating mt-4pt">
                                         <span class="rating__item"><span class="material-icons">star</span></span>
                                         <span class="rating__item"><span class="material-icons">star</span></span>
                                         <span class="rating__item"><span class="material-icons">star</span></span>
                                         <span class="rating__item"><span class="material-icons">star</span></span>
                                         <span class="rating__item"><span class="material-icons">star_border</span></span>
-                                    </div>
+                                    </div> -->
                                 </div>
                             </div>
 
                         </div>
 
-                        <div class="col-12 col-md-6">
-
-                            <div class="card card-feedback card-body">
-                                <blockquote class="blockquote mb-0">
-                                    <p class="text-70 small mb-0">A wonderful course on how to start. Eddie beautifully conveys all essentials of a becoming a good Angular developer. Very glad to have taken this course. Thank you Eddie Bryan.</p>
-                                </blockquote>
-                            </div>
-                            <div class="media ml-12pt">
-                                <div class="media-left mr-12pt">
-                                    <a href="student-profile.html"
-                                       class="avatar avatar-sm">
-                                        <!-- <img src="../../public/images/people/110/guy-.jpg" width="40" alt="avatar" class="rounded-circle"> -->
-                                        <span class="avatar-title rounded-circle">UK</span>
-                                    </a>
-                                </div>
-                                <div class="media-body media-middle">
-                                    <a href="student-profile.html"
-                                       class="card-title">Umberto Kass</a>
-                                    <div class="rating mt-4pt">
-                                        <span class="rating__item"><span class="material-icons">star</span></span>
-                                        <span class="rating__item"><span class="material-icons">star</span></span>
-                                        <span class="rating__item"><span class="material-icons">star</span></span>
-                                        <span class="rating__item"><span class="material-icons">star</span></span>
-                                        <span class="rating__item"><span class="material-icons">star_border</span></span>
-                                    </div>
-                                </div>
-                            </div>
-
-                        </div>
-
-                        <div class="col-12 col-md-6">
-
-                            <div class="card card-feedback card-body">
-                                <blockquote class="blockquote mb-0">
-                                    <p class="text-70 small mb-0">A wonderful course on how to start. Eddie beautifully conveys all essentials of a becoming a good Angular developer. Very glad to have taken this course. Thank you Eddie Bryan.</p>
-                                </blockquote>
-                            </div>
-                            <div class="media ml-12pt">
-                                <div class="media-left mr-12pt">
-                                    <a href="student-profile.html"
-                                       class="avatar avatar-sm">
-                                        <!-- <img src="../../public/images/people/110/guy-.jpg" width="40" alt="avatar" class="rounded-circle"> -->
-                                        <span class="avatar-title rounded-circle">UK</span>
-                                    </a>
-                                </div>
-                                <div class="media-body media-middle">
-                                    <a href="student-profile.html"
-                                       class="card-title">Umberto Kass</a>
-                                    <div class="rating mt-4pt">
-                                        <span class="rating__item"><span class="material-icons">star</span></span>
-                                        <span class="rating__item"><span class="material-icons">star</span></span>
-                                        <span class="rating__item"><span class="material-icons">star</span></span>
-                                        <span class="rating__item"><span class="material-icons">star</span></span>
-                                        <span class="rating__item"><span class="material-icons">star_border</span></span>
-                                    </div>
-                                </div>
-                            </div>
-
-                        </div>
+                    <?php } ?>
 
                     </div>
                 </div>
             </div>
         </div>
     </div>
+<?php if (!empty($latest_blogs)) {?>
+    <div class="page-section border-bottom-2">
+        <div class="container page__container">
+
+            <div class="page-separator">
+                <div class="page-separator__text"><?php echo get_languageword('latest');?> <?php echo get_languageword('blogs'); ?></div>
+            </div>
+
+            <div class="row card-group-row">
+                <?php foreach($latest_blogs as $blog) {
+                        $hlink = URL_HOME_TUTOR_PROFILE.'/'.$blog->slug;
+                    ?>
+                        <div class="col-md-6 col-lg-4 card-group-row__col">
+
+                            <div class="card card--elevated posts-card-popular overlay card-group-row__card">
+                                <img src="<?php echo get_tutor_img($blog->photo, $blog->gender); ?>"
+                                     alt=""
+                                     class="card-img">
+                                <div class="fullbleed bg-primary"
+                                     style="opacity: .5"></div>
+                                <div class="posts-card-popular__content">
+                                    <!-- <div class="card-body d-flex align-items-center">
+                                        <div class="avatar-group flex">
+                                            <div class="avatar avatar-xs"
+                                                 data-toggle="tooltip"
+                                                 data-placement="top"
+                                                 title="Janell D.">
+                                                <a href=""><img src="../../public/images/256_luke-porter-261779-unsplash.jpg"
+                                                         alt="Avatar"
+                                                         class="avatar-img rounded-circle"></a>
+                                            </div>
+                                        </div>
+                                        <a style="text-decoration: none;"
+                                           class="d-flex align-items-center"
+                                           href=""><i class="material-icons mr-1"
+                                               style="font-size: inherit;">remove_red_eye</i> <small>327</small></a>
+                                    </div> -->
+                                    <div class="posts-card-popular__title card-body">
+                                        <!-- <small class="text-muted text-uppercase">sketch</small> -->
+                                        <a class="card-title"
+                                           href="<?php echo URL_HOME_VIEW_BLOG_DETAILS.'/'.$blog->blog_id; ?>"><?php echo $blog->title;?></a>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                <?php } ?>
+
+            </div>
+
+            <!-- <div class="posts-cards">
+
+                <div class="card posts-card mb-0">
+                    <div class="posts-card__content d-flex align-items-center flex-wrap">
+                        <div class="avatar avatar-lg mr-3">
+                            <a href="blog-post.html"><img src="../../public/images/paths/invision_200x168.png"
+                                     alt="avatar"
+                                     class="avatar-img rounded"></a>
+                        </div>
+                        <div class="posts-card__title flex d-flex flex-column">
+                            <a href="blog-post.html"
+                               class="card-title mr-3">Design Systems Essentials</a>
+                            <small class="text-50">35 views last week</small>
+                        </div>
+                        <div class="d-flex align-items-center flex-column flex-sm-row posts-card__meta">
+                            <div class="mr-3 text-50 text-uppercase posts-card__tag d-flex align-items-center">
+                                <i class="material-icons text-muted-light mr-1">folder_open</i> inVision
+                            </div>
+                            <div class="mr-3 text-50 posts-card__date">
+                                <small>11 Nov, 2018 07:46 AM</small>
+                            </div>
+                            <div class="media ml-sm-auto align-items-center">
+                                <div class="media-left mr-2 avatar-group">
+
+                                    <div class="avatar avatar-xs"
+                                         data-toggle="tooltip"
+                                         data-placement="top"
+                                         title="Janell D.">
+                                        <img src="../../public/images/256_rsz_1andy-lee-642320-unsplash.jpg"
+                                             alt="Avatar"
+                                             class="avatar-img rounded-circle">
+                                    </div>
+
+                                    <div class="avatar avatar-xs"
+                                         data-toggle="tooltip"
+                                         data-placement="top"
+                                         title="Janell D.">
+                                        <img src="../../public/images/256_michael-dam-258165-unsplash.jpg"
+                                             alt="Avatar"
+                                             class="avatar-img rounded-circle">
+                                    </div>
+
+                                    <div class="avatar avatar-xs"
+                                         data-toggle="tooltip"
+                                         data-placement="top"
+                                         title="Janell D.">
+                                        <img src="../../public/images/256_luke-porter-261779-unsplash.jpg"
+                                             alt="Avatar"
+                                             class="avatar-img rounded-circle">
+                                    </div>
+
+                                </div>
+                                <div class="media-body">
+
+                                    <a href="">+2 more</a>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div> -->
+
+        </div>
+    </div>
+<?php } ?>
 
 </div>
-<!-- // END Header Layout Content -->
+<!-- // END Header Layout Content
